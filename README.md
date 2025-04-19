@@ -27,6 +27,10 @@ The way this configuration works is like this:
 - You can tell when the printer is preheating because the total number of layers will show `69420`.
 - During this preheating period, the chamber heater will also be running if the print settings have a chamber temp set.
 
+## Setup:
+
+https://www.youtube.com/watch?v=-zjfj2JZXnY
+
 ## Details
 
 This Fork has a modified `gcode_macro.cfg` that has several improvements:
